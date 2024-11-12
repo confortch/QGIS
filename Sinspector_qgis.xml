@@ -1,9 +1,9 @@
 <plugins>
-    <plugin name="qgis_plugin-v1.0" version="1.0">
-        <description>Sinspector aplicación para estudio de información georeferencial</description>
+    <plugin name="qgis_plugin" version="1.0">
+        <description>Sinspector aplicación para estudio de información georreferencial</description>
         <about>Sincronizado con antecedentes municipales</about>
         <author>Javier Barra</author>
-        <download_url>https://www.dropbox.com/scl/fi/sbzihxv6xry8i7vuvxc4e/qgis_plugin-v1.0.zip?rlkey=jatrrfi4abh74vx49pkmsemiv&st=idlkvtzm&dl=1</download_url>
+        <download_url>https://raw.githubusercontent.com/confortch/QGIS/main/qgis_plugin.zip</download_url>
         <qgis_minimum_version>3.0</qgis_minimum_version>
         <qgis_maximum_version>3.22</qgis_maximum_version>
     </plugin>
